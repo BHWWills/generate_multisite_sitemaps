@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+  <attributesets>
+    <attributeset handle="seo" name="SEO" package="" category="collection">
+      <attributekey handle="exclude_subpages_sitemapxml"/>
+    </attributeset>
+  </attributesets>
+  <attributekeys>
+    <attributekey handle="exclude_subpages_sitemapxml" name="Exclude Sub-Pages From sitemap.xml" package="generate_multisite_sitemaps" searchable="" indexed="1" type="boolean" category="collection">
+      <type checked="" checkbox-label=""/>
+    </attributekey>
+  </attributekeys>
+</concrete5-cif>

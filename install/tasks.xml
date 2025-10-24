@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concrete5-cif version="1.0">
+    <tasks>
+        <task handle="generate_multi_sitemaps" package="generate_multisite_sitemaps"/>
+    </tasks>
+    <tasksets>
+        <taskset handle="seo">
+            <task handle="generate_multi_sitemaps"/>
+        </taskset>
+    </tasksets>
+</concrete5-cif>
