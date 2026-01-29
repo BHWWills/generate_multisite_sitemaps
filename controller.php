@@ -7,7 +7,7 @@ use Concrete\Core\Command\Task\Manager;
 class Controller extends Package
 {
     protected $appVersionRequired = '9.0';
-    protected $pkgVersion = '1.5';
+    protected $pkgVersion = '1.5.2';
     protected $pkgHandle = 'generate_multisite_sitemaps';
     protected $pkgAutoloaderRegistries = [
         'src' => '\Concrete\Package\GenerateMultisiteSitemaps'
