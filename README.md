@@ -1,2 +1,2 @@
 # generate_multisite_sitemaps
-Generate Multi-Site Sitemaps for ConcreteCMS v9+
+Generate Multi-Site Sitemaps for ConcreteCMS
